@@ -1,0 +1,2 @@
+# MagicSquare
+WeeklySourceCode 
